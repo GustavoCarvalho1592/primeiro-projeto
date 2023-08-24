@@ -1,0 +1,36 @@
+body{
+    font: arial;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(236, 223, 223);
+    text-align: center;
+    color: white;
+    background: url(./img/fundo-preto-antigo-textura-do-grunge-papel-de-parede-escuro-quadro-negro-quadro-negro-parede-da-sala.jpg);
+}
+
+
+
+h1{
+    font-family: amperzand;
+    text-align: center;
+    background:#ffab62
+    
+}
+
+caption{
+    
+    padding: 10px;
+    text-align: center;
+    background:#ffab62
+    
+}
+
+
+
+table tr th,table tr td{
+border: 1px solid rgb(255, 255, 255);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 1rem;
+text-align: center;
+padding: 25px;
+}
+

@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    background: url(./img/fundo-preto-antigo-textura-do-grunge-papel-de-parede-escuro-quadro-negro-quadro-negro-parede-da-sala.jpg);
+   
+}
+
+h4 {
+    font-size: 2rem;
+    text-align: center;
+    background:#ffab62
+}
+
+p {
+    text-align: center;
+    background:#ffab62
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    }
+    #wrapper{
+    min-height: 100%;
+    position: relative;
+    }
+    div.body-content{
+      /** Altura do rodapé tem que ser igual a isso aqui e vice-versa **/
+    padding-bottom: 588px;
+    }
+    footer{
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    }
+
+
+fieldset{
+    text-align: center;
+    
+}
+
+    form fieldset button{
+        font-family: Arial, Helvetica, sans-serif;
+        background:white;
+        border-radius: 8px;
+        height: 20px;
+    }
